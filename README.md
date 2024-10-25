@@ -21,6 +21,9 @@
 - [candycrush-like logic game](https://github.com/St0pien/balls-game) - Simple logic game (kind of mix of CandyCrush/Connect4) logic game, technical school assignment
 - [Three.js TPS workshop](https://github.com/St0pien/FPS-stefan) - Simple scene/game with implemented multiple 3D Third person games primitives like Character controller, Particles Systems etc.
 
+#### CLI
+- [Xtimator]() - CLI tools for estimating characteristics of tweets using LLMs
+
 <!--
 **St0pien/St0pien** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
