@@ -22,7 +22,7 @@
 - [Three.js TPS workshop](https://github.com/St0pien/FPS-stefan) - Simple scene/game with implemented multiple 3D Third person games primitives like Character controller, Particles Systems etc.
 
 #### CLI
-- [Xtimator]() - CLI tools for estimating characteristics of tweets using LLMs
+- [Xtimator](https://github.com/St0pien/xtimator) - CLI tools for estimating characteristics of tweets using LLMs
 
 <!--
 **St0pien/St0pien** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
